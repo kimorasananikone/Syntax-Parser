@@ -1,4 +1,4 @@
-/* Kimora Sananikone R1 Project 2: Syntax Parser| November 3, 2023
+/* Kimora Sananikone | Project 2: Syntax Parser| November 3, 2023
 The purpose of this program is is to use our lexical analyzer that we developed
 in Project 1 and develop a recursive descent syntax parser that can validate the
 syntax in the input files provided by the user.
